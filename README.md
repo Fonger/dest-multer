@@ -3,7 +3,7 @@
 A node.js multipart form express middleware that allow you to separate uploaded
 files or renamed based on each request, filename or the name of form field.
 
-[![Build Status](https://travis-ci.org/Fonger/dest-multer.svg)](https://travis-ci.org/Fonger/dest-multer)
+[![Build Status](https://travis-ci.org/Fonger/dest-multer.svg?branch=master)](https://travis-ci.org/Fonger/dest-multer)
 
 ## Requirements
 node.js >= 4.0.0
