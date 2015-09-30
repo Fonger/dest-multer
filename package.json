@@ -1,0 +1,26 @@
+{
+  "name": "dest-multer",
+  "version": "1.0.0",
+  "description": "A multiform uploader that allow you to separate uploaded files or renamed based on each request, filename or the name of form field.'",
+  "main": "lib/dest-multer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fonger/dest-multer.git"
+  },
+  "author": "Fonger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fonger/dest-multer/issues"
+  },
+  "homepage": "https://github.com/Fonger/dest-multer#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "multer": "^1.0.5"
+  }
+}
