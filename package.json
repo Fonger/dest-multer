@@ -4,7 +4,7 @@
   "description": "A multiform uploader that allow you to separate uploaded files or renamed based on each request, filename or the name of form field.'",
   "main": "lib/dest-multer.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "engines": {
     "node": ">= 4.0.0"
