@@ -1,7 +1,9 @@
-dest-multer
-===============================================================================
+# dest-multer
+
 A node.js multipart form express middleware that allow you to separate uploaded
 files or renamed based on each request, filename or the name of form field.
+
+[![build status](https://travis-ci.org/chichunchen/dest-multer.svg)](https://travis-ci.org/chichunchen/dest-multer.svg)
 
 ## Requirements
 node.js >= 4.0.0
