@@ -1,6 +1,6 @@
 {
   "name": "dest-multer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A multipart form middleware that allow you to separate uploaded files or renamed based on each request, filename or the name of form field.",
   "main": "lib/dest-multer.js",
   "scripts": {
